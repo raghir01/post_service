@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Gradle_Projects/my-first-gradle" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/FINAL/Tution-calculator/eureka-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/FINAL/Tution-calculator/finaid-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/FINAL/Tution-calculator/tuition-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/FINAL/Tution-solution/eureka-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/FINAL/Tution-solution/finaid-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/FINAL/Tution-solution/tuition-service" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="43" />
+    <option name="width" value="1440" />
+    <option name="height" value="809" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+</project>
